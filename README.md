@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sajad Bagherzadeh
+- 👋 Hi, I’m Sajad Bagherzadeh
 - 👀 I’m interested in c#
 - 🌱 I’m currently learning Blazor
 - 📫 Contact me here or send message to sajad.bagherzadeh@basketasia.com
